@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ifeomagoody
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning html and css
+- 👀 I’m a tech enthusiast
+- 🌱 I know a number of languages
 - 💞️ I’m looking to collaborate on tech opportunities
 - 📫 How to reach me goodnessezeokoli3@gmail.com
 
